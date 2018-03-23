@@ -7,3 +7,9 @@
 [submodule "ngx_brotli"]
 	path = ngx_brotli
 	url = https://github.com/google/ngx_brotli.git
+[submodule "ngx-fancyindex"]
+	path = ngx-fancyindex
+	url = https://github.com/aperezdc/ngx-fancyindex.git
+[submodule "ngx_http_tls_dyn_size"]
+	path = ngx_http_tls_dyn_size
+	url = https://github.com/nginx-modules/ngx_http_tls_dyn_size.git
