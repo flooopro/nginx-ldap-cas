@@ -1,0 +1,9 @@
+[submodule "cas-nginx_http_auth_module"]
+	path = cas-nginx_http_auth_module
+	url = https://github.com/cas-x/cas-nginx_http_auth_module.git
+[submodule "nginx-auth-ldap"]
+	path = nginx-auth-ldap
+	url = https://github.com/kvspb/nginx-auth-ldap.git
+[submodule "ngx_brotli"]
+	path = ngx_brotli
+	url = https://github.com/google/ngx_brotli.git
